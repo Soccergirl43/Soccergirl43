@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Soccergirl43
-- 👀 My favorite sport Soccer
+- 👀 My favorite sport is Soccer
 - 🌱 I’m currently learning how to program games
 - 💞️ I’m looking to collaborate on Programing games
 - 📫 How to reach me email or messages
